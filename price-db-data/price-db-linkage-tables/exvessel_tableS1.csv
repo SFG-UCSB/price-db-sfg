@@ -1,0 +1,1211 @@
+FAO_commodity,pooled_commodity,ISSCAAP_division,ISSCAAP_group,group_for_pairing,exvessel_estimated
+"Crab meat frozen, prepared or preserved",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crab meat nei, prepared or preserved",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crab meat, frozen",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crab meat, in airtight containers, prep.or pres.",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crabs nei, frozen",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crabs, dried, salted or in brine, nei",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crabs, live",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crabs, not frozen",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crabs, peeled or not, fresh or chilled",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crabs, peeled or not, fresh or chilled, nei",Crabs,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Crab (Cancer pagurus), frozen",Edible crab (Cancer pagurus),CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Edible crab (Cancer pagurus), not frozen",Edible crab (Cancer pagurus),CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Tanner crab meat, prepared or preserved",Tanner crab,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"Tanner crab, nei, frozen",Tanner crab,CRUSTACEANS,"Crabs, sea-spiders","Crabs, sea-spiders",1
+"King crab meat, frozen",King crabs,CRUSTACEANS,"King crabs, squat-lobsters","Crabs, sea-spiders",1
+"King crab meat, prepared or preserved",King crabs,CRUSTACEANS,"King crabs, squat-lobsters","Crabs, sea-spiders",1
+"King crab, nei, frozen",King crabs,CRUSTACEANS,"King crabs, squat-lobsters","Crabs, sea-spiders",1
+"King crabs, not frozen",King crabs,CRUSTACEANS,"King crabs, squat-lobsters","Crabs, sea-spiders",1
+"Squat-lobsters nei, frozen",Squat-lobsters,CRUSTACEANS,"King crabs, squat-lobsters","Crabs, sea-spiders",1
+"Crayfish (freshwater), fresh or chilled",Crayfish (freshwater),CRUSTACEANS,Freshwater crustaceans,Freshwater crustaceans,1
+"Crayfish (freshwater), frozen",Crayfish (freshwater),CRUSTACEANS,Freshwater crustaceans,Freshwater crustaceans,1
+"Crayfish (freshwater), not frozen",Crayfish (freshwater),CRUSTACEANS,Freshwater crustaceans,Freshwater crustaceans,1
+"Crayfish (freshwater), prepared or preserved",Crayfish (freshwater),CRUSTACEANS,Freshwater crustaceans,Freshwater crustaceans,1
+"Freshwater crustaceans nei, frozen",Freshwater crustaceans,CRUSTACEANS,Freshwater crustaceans,Freshwater crustaceans,1
+"Freshwater crustaceans nei, live, fresh or chilled",Freshwater crustaceans,CRUSTACEANS,Freshwater crustaceans,Freshwater crustaceans,1
+"Freshwater shrimps and prawns, frozen",Shrimps and prawns,CRUSTACEANS,Freshwater crustaceans,Freshwater crustaceans,1
+"American/European lobsters (Homarus spp.), meat or tails, fresh or chilled",American/European lobsters (Homarus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"American/European lobsters (Homarus spp.), meat or tails, frozen",American/European lobsters (Homarus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"American/European lobsters (Homarus spp.), nei, fresh or chilled",American/European lobsters (Homarus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"American/European lobsters (Homarus spp.), nei, frozen",American/European lobsters (Homarus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"American/European lobsters (Homarus spp.), not frozen",American/European lobsters (Homarus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"American/European lobsters (Homarus spp.), whole, fresh or chilled",American/European lobsters (Homarus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"American/European lobsters (Homarus spp.), whole, frozen",American/European lobsters (Homarus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobsters (Homarus spp.), not frozen",American/European lobsters (Homarus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobster tails or meat, prep. or pres.",Lobsters,CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobsters nei, fresh or chilled",Lobsters,CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobsters nei, frozen",Lobsters,CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobsters nei, meat or tails, frozen",Lobsters,CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobsters nei, whole, fresh or chilled",Lobsters,CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobsters nei, whole, frozen",Lobsters,CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobsters, dried, salted or in brine, nei",Lobsters,CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Lobsters, live",Lobsters,CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Norway lobsters (Nephrops spp.), meat or tails, fresh or chilled",Norway lobsters (Nephrops spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Norway lobsters (Nephrops spp.), nei, fresh or chilled",Norway lobsters (Nephrops spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Norway lobsters (Nephrops spp.), nei, frozen",Norway lobsters (Nephrops spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Norway lobsters (Nephrops spp.), nei, not frozen",Norway lobsters (Nephrops spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Norway lobsters (Nephrops spp.), whole, fresh or chilled",Norway lobsters (Nephrops spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Norway lobsters (Nephrops spp.), whole, frozen",Norway lobsters (Nephrops spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobster & other sea crawfish (Palinurus, Panulirus, Jasus), meat or tails, frozen","Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus)",CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobster & other sea crawfish (Palinurus,Panulirus,Jasus), fresh or chilled, nei","Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus)",CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobster & other sea crawfish (Palinurus,Panulirus,Jasus), whole, fresh or chilled","Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus)",CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus), frozen, nei","Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus)",CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus), whole, frozen","Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus)",CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobster and other sea crawfish, not frozen","Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus)",CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Spiny-rock lobster, prepared or preserved","Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus)",CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobsters (Jasus spp.), meat or tails, fresh or chilled",Rock lobsters (Jasus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobsters (Jasus spp.), meat or tails, frozen",Rock lobsters (Jasus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobsters (Jasus spp.), nei, fresh or chilled",Rock lobsters (Jasus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobsters (Jasus spp.), nei, frozen",Rock lobsters (Jasus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobsters (Jasus spp.), whole, fresh or chilled",Rock lobsters (Jasus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Rock lobsters (Jasus spp.), whole, frozen",Rock lobsters (Jasus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Spiny lobsters (Panulirus spp.), meat or tails, fresh or chilled",Spiny lobsters (Panulirus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Spiny lobsters (Panulirus spp.), meat or tails, frozen",Spiny lobsters (Panulirus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Spiny lobsters (Panulirus spp.), nei, fresh or chilled",Spiny lobsters (Panulirus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Spiny lobsters (Panulirus spp.), nei, frozen",Spiny lobsters (Panulirus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Spiny lobsters (Panulirus spp.), whole, fresh or chilled",Spiny lobsters (Panulirus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Spiny lobsters (Panulirus spp.), whole, frozen",Spiny lobsters (Panulirus spp.),CRUSTACEANS,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",1
+"Krill, etc. frozen",Krill,CRUSTACEANS,"Krill, planktonic crustaceans",Miscellaneous marine crustaceans,1
+"Crustacean meal, nei",Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+Crustacean preparations incl. paste,Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans live, for breeding and other purposes, nei",Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans live, for human consumption, nei",Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans nei, dried, salted or in brine",Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans nei, frozen",Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans nei, prepared or preserved",Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans, fresh, chilled or boiled in water, nei",Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Miscellaneous crustaceans, not frozen, nei",Crustaceans,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustacean and mollusc preparations, not in airtight containers",Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+Crustaceans & molluscs unfit for human consumption,Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans and molluscs, dried, salted or in brine, nei",Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans and molluscs, fresh, frozen, dried, salted, etc.",Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans and molluscs, live, for breeding and other purposes, nei",Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans and molluscs, live, for human food nei",Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans and molluscs, nei, fresh or chilled",Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans and molluscs, nei, frozen",Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Crustaceans and molluscs, prepared or preserved, nei",Crustaceans and molluscs,CRUSTACEANS,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,1
+"Common (=Crangon) shrimp, fresh, chilled or boiled",Common (=Crangon) shrimp,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Common (=Crangon) shrimp, frozen",Common (=Crangon) shrimp,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Common (=Crangon) shrimp, not frozen",Common (=Crangon) shrimp,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Deepwater rose shrimps (Parapenaeus longirostris), frozen",Deepwater rose shrimps (Parapenaeus longirostris),CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+Shrimp meal,Shrimps,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+Shrimp paste,Shrimps,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps, breaded, raw and cooked, prep. or pres.",Shrimps,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps, peeled, cooked, prep. or pres.",Shrimps,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Cold-water shrimps and prawns (Pandalus spp., Crangon spp.), not frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Cold-water shrimps and prawns (Pandalus spp., Crangon spp.), whether in shell or not, frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, cooked, frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, dried, salted or in brine, nei",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, fan tails, frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, fresh or chilled, nei",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, frozen, nei",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, live",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, not cooked, frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, not frozen, nei",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, other than coldwater, frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, other than coldwater, not frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, peeled, fresh or chilled",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, peeled, frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, prep. or pres., in airtight containers",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, prep. or pres., not in airtight containers",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns, tails, shell on, frozen",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps, prawns live, for breeding and other purposes",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps, prawns, prepared or preserved, nei",Shrimps and prawns,CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns (Pandalidae spp.), fresh or chilled",Shrimps and prawns (Pandalidae spp.),CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns (Pandalidae spp.), frozen",Shrimps and prawns (Pandalidae spp.),CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns (Pandalidae spp.), not frozen",Shrimps and prawns (Pandalidae spp.),CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns (Penaeus spp.), fresh or chilled",Shrimps and prawns (Penaeus spp.),CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns (Penaeus spp.), frozen",Shrimps and prawns (Penaeus spp.),CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Shrimps and prawns (Penaeus spp.), not frozen",Shrimps and prawns (Penaeus spp.),CRUSTACEANS,"Shrimps, prawns","Shrimps, prawns",1
+"Barramundi, fresh or chilled",Barramundi,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Barramundi, frozen",Barramundi,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Milkfish, fresh or chilled",Milkfish,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Milkfish, frozen",Milkfish,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+Caviar and caviar substitutes,Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+Caviar substitutes,Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fish fillets, fresh or chilled, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fish fillets, frozen, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fish meat, wheter or not minced, fresh or chilled, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fish meat, whether or not minced, frozen, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fish, dried, whether or not salted, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fish, fresh or chilled, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fish, nei, smoked",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fishes fillets, fresh or chilled, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fishes fillets, frozen, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Diadromous fishes, nei, smoked",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Miscellaneous diadromous fish not minced, prep. or pres., nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Miscellaneous diadromous fish, nei, frozen",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Miscellaneous diadromous fish, salted or in brine, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Miscellaneous diadromous fishes, dried, salted or in brine, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Miscellaneous diadromous fishes, nei, frozen",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Miscellaneous diadromous fishes, salted or in brine, nei",Misc. diadromous fishes,DIADROMOUS FISHES,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,1
+"Eels, fresh or chilled",Eels,DIADROMOUS FISHES,River eels,River eels,1
+"Eels, frozen",Eels,DIADROMOUS FISHES,River eels,River eels,1
+"Eels, smoked",Eels,DIADROMOUS FISHES,River eels,River eels,1
+Eels and elvers live,Eels and elvers,DIADROMOUS FISHES,River eels,River eels,1
+"Elvers, fresh or chilled",Eels and elvers,DIADROMOUS FISHES,River eels,River eels,1
+"River eel fillets, fresh or chilled, nei",River eels,DIADROMOUS FISHES,River eels,River eels,1
+"River eel fillets, frozen, nei",River eels,DIADROMOUS FISHES,River eels,River eels,1
+"River eels, dried, salted or in brine",River eels,DIADROMOUS FISHES,River eels,River eels,1
+"River eels, dried, whether or not salted, not smoked, nei",River eels,DIADROMOUS FISHES,River eels,River eels,1
+"River eels, prepared or preserved, not minced, nei",River eels,DIADROMOUS FISHES,River eels,River eels,1
+"Atlantic and Danube salmons, fresh or chilled",Atlantic and Danube salmons,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Atlantic salmon and Danube salmon, frozen",Atlantic and Danube salmons,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Atlantic salmon, not minced, prepared or preserved",Atlantic and Danube salmons,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Chum salmon, not minced, prepared or preserved",Chum salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Coho salmon, not minced, prepared or preserved",Coho salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Pacific salmon, fresh or chilled",Pacific salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Pacific salmon, frozen, nei",Pacific salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Pacific salmons nei, not minced, prepared or preserved",Pacific salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Pacific salmons, fresh or chilled",Pacific salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Pacific salmons, frozen, nei",Pacific salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Pink salmon, not minced, prepared or preserved, nei",Pink salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon fillets, dried, salted or in brine",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon fillets, fresh or chilled",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon fillets, frozen",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon minced, preparations",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon minced, prepared or preserved",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon nei prep. or pres., not minced, not in airtight containers",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon nei, not minced, in oil, prepared or preserved",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon nei, not minced, prep.or pres, in airtight containers",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon nei, not minced, prepared or preserved",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon roes, cured",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon roes, frozen",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon sides, salted or in brine",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon steaks, fresh or chilled",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmon steaks, frozen",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmons nei, frozen",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmons, dried, whether or not salted, not smoked, nei",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmons, fillets, dried, salted or in brine",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmons, fresh or chilled, nei",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmons, live",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmons, meat. frozen",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmons, salted or in brine",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmons, smoked",Salmon,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids fillets in blocks, frozen",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids fillets, dried, salted or in brine, but not smoked",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids fillets, fresh or chilled",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids fillets, fresh or chilled, nei",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids fillets, frozen",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids fillets, frozen, nei",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids meat, fresh or chilled, nei",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids nei, dried, whether or not salted, not smoked",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids nei, minced, prepared or preserved",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids nei, salted or in brine",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids nei, smoked",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids, fresh or chilled, nei",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids, frozen",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids, meat, frozen",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids, minced, preparations",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids, not minced, prepared or preserved",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids, salted or in brine",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Salmonoids, smoked",Salmonoids,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Smelt, fresh or chilled",Smelts,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Smelts, frozen",Smelts,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Sockeye salmon (red salmon)(Oncorhynchus nerka), frozen",Sockeye salmon (red salmon)(Oncorhynchus nerka),DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Sockeye salmon, not minced, prepared or preserved, nei",Sockeye salmon (red salmon)(Oncorhynchus nerka),DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trout fillets, fresh and chilled",Trouts,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trout fillets, frozen",Trouts,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trouts, dried, salted",Trouts,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trouts, meat, frozen",Trouts,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trouts, not minced, prepared or preserved",Trouts,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trouts, salted or in brine",Trouts,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+Trouts and chars live,Trouts and chars,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trouts and chars, fresh or chilled",Trouts and chars,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trouts and chars, frozen",Trouts and chars,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Trouts and chars, smoked",Trouts and chars,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Whitefishes, fresh or chilled",Whitefishes,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Whitefishes, frozen",Whitefishes,DIADROMOUS FISHES,"Salmons, trouts, smelts","Salmons, trouts, smelts",1
+"Alewife, dried, salted or in brine",Alewife,DIADROMOUS FISHES,Shads,Shads,1
+"Shads, nei, fresh or chilled",Shads,DIADROMOUS FISHES,Shads,Shads,1
+Caviar,Sturgeons and caviar,DIADROMOUS FISHES,"Sturgeons, paddlefishes","Sturgeons, paddlefishes",1
+"Sturgeons, fresh or chilled",Sturgeons and caviar,DIADROMOUS FISHES,"Sturgeons, paddlefishes","Sturgeons, paddlefishes",1
+"Carp fillets, fresh or chilled",Carps,FRESHWATER FISHES,"Carps, barbels and other cyprinids","Carps, barbels and other cyprinids",1
+Carps live,Carps,FRESHWATER FISHES,"Carps, barbels and other cyprinids","Carps, barbels and other cyprinids",1
+"Carps, fresh or chilled",Carps,FRESHWATER FISHES,"Carps, barbels and other cyprinids","Carps, barbels and other cyprinids",1
+"Carps, frozen",Carps,FRESHWATER FISHES,"Carps, barbels and other cyprinids","Carps, barbels and other cyprinids",1
+"Carps, eels and snakeheads, fillets, fresh or chilled",Misc. freshwater fishes,FRESHWATER FISHES,"Carps, barbels and other cyprinids","Carps, barbels and other cyprinids",1
+"Carps, eels and snakeheads, fillets, frozen",Misc. freshwater fishes,FRESHWATER FISHES,"Carps, barbels and other cyprinids","Carps, barbels and other cyprinids",1
+"Meat of tilapias, catfish, carp, eels, nile perch and snakeheads, fresh or chilled",Misc. freshwater fishes,FRESHWATER FISHES,"Carps, barbels and other cyprinids","Carps, barbels and other cyprinids",1
+"Catfish  meat, frozen",Catfish,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Catfish fillets, fresh or chilled",Catfish,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Catfish fillets, frozen",Catfish,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Catfish steaks, frozen",Catfish,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Catfish, fresh or chilled",Catfish,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Catfish, frozen",Catfish,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish fillets in blocks, frozen nei",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish fillets, fresh or chilled, nei",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish fillets, nei, frozen",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish meat, whether or not minced, fresh or chilled, nei",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish meat, whether or not minced, frozen, nei",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish nei prepared or preserved, minced",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish nei, fillets, dried, salted, or in brine",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish nei, frozen",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish nei, live",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish, dried, whether or not salted, not smoked, nei",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fish, nei, fresh or chilled",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fishes nei, dried, salted, or in brine",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fishes nei, frozen",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fishes nei, smoked",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fishes, dried, whether or not salted, nei",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Freshwater fishes, nei, fresh or chilled",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Miscellaneous freshwater fish nei, salted and in brine",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Miscellaneous freshwater fish, prepared or preserved, not minced, nei",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Miscellaneous freshwater fish, smoked",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Miscellaneous freshwater fishes nei, salted and in brine",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Miscellaneous freshwater fishes, prepared or preserved, not minced, nei",Misc. freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Nile perch (Lates niloticus) and snakeheads (Channa spp.), frozen",Nile perch,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Nile perch and snakeheads (Channa spp.),  fresh or chilled",Nile perch,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Nile perch fillets, fresh or chilled",Nile perch,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Nile perch fillets, frozen",Nile perch,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+Ornamental freshwater fish,Ornamental freshwater fishes,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Perch fillets, fresh or chilled",Perch,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Perch, fresh or chilled",Perch,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Pike, fresh or chilled",Pike,FRESHWATER FISHES,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,1
+"Tilapia, catfish, carp, eel, Nile perch and snakeheads, fillets, dried/salted/brine, not smoked",Misc. freshwater fishes,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Tilapias, catfish, carp, eels, Nile perch and snakeheads  meat, frozen",Misc. freshwater fishes,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Tilapias, catfish, carp, eels, Nile perch and snakeheads, including fillets, smoked",Misc. freshwater fishes,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Tilapias, catfish, carp, eels, Nile perch and snakeheads, salted or in brine",Misc. freshwater fishes,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Tilapia fillets, fresh or chilled",Tilapias,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Tilapia fillets, frozen",Tilapias,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Tilapias prepared or preserved, not minced",Tilapias,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Tilapias, fresh or chilled",Tilapias,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Tilapias, frozen",Tilapias,FRESHWATER FISHES,Tilapias and other cichlids,Tilapias and other cichlids,1
+"Alaska pollack fillets, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack meat, whether or not minced, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack roes, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack roes, pickled",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack, dried, unsalted",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska Pollack, fresh or chilled",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack, meat, whether or not minced, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack, not minced, prepared or preserved",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack, roes, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollack, roes, pickled",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock fillets, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock meat, whether or not minced, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock roes, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock roes, pickled",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock, dried, unsalted",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska Pollock, fresh or chilled",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock, meat, whether or not minced, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock, not minced, prepared or preserved",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock, roes, frozen",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Alaska pollock, roes, pickled",Alaska pollock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Argentine hake, fresh or chilled",Argentine hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Argentinian hake fillets, fresh or chilled",Argentine hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Argentinian hake fillets, frozen",Argentine hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Argentinian hake, frozen",Argentine hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod fillets in blocks, frozen",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod fillets, fresh or chilled",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod fillets, frozen",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod, fillets in blocks, frozen",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod, fillets, fresh or chilled",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod, fresh or chilled",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod, frozen",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod, meat, frozen",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Atlantic cod, salted or in brine",Atlantic cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Blue whiting (Micromesistius poutassou), fresh or chilled",Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Blue whiting (Micromesistius poutassou), frozen",Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Blue whiting fillets, frozen",Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+Blue whiting meal,Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Blue whiting meat, frozen",Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Blue whiting, fresh or chilled",Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Blue whiting, frozen",Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Blue whitings (Micromesistius poutassou, Micromesistius australis), fresh or chilled",Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Blue whitings (Micromesistius poutassou, Micromesistius australis), frozen",Blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cape hake fillets, frozen",Cape hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cape hake, fresh or chilled",Cape hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cape hake, frozen",Cape hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod fillets in blocks, frozen, nei",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+Cod liver oil,Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod nei fillets, dried, salted or in brine",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod nei, fillets, frozen",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod roe, prepared",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod roes, frozen",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod roes, salted or sugar salted",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod, dried, unsalted (stockfish)",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod, meat, frozen",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod, minced, frozen",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cod, salted and dried (klipfish)",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods nei, dried whether or not salted",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods nei, dried,  whether or not salted",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods nei, dried, salted or in brine",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods nei, fillets, fresh or chilled",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods nei, frozen",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods nei, salted or in brine",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods, fresh or chilled, nei",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods, not minced, prepared or preserved",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods, smoked",Cods,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"European hake fillets, fresh or chilled",European hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"European hake fillets, frozen",European hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"European hake, fresh or chilled",European hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"European hake, frozen",European hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods, hakes, haddocks, etc.  fillets in blocks, frozen, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Cods, hakes, haddocks, etc. nei fillets in blocks, frozen",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes excl. Alaska pollock, meat, whether or not minced, frozen",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes fillets, fresh or chilled",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes fillets, fresh or chilled, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes fillets, frozen",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes fillets, frozen, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes nei, dried and salted",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes nei, dried, unsalted",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes nei, frozen",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, dried, salted or in brine, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, dried, whether or not salted, but not smoked",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, fillets, dried, salted or in brine, not smoked",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, fresh or chilled, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, meals, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, meat, fresh or chilled, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, meat, whether or not minced, frozen, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, minced, prepared or preserved, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, not minced, prepared or preserved",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, salted and dried",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, salted or in brine, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadiformes, smoked",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Gadoid fish meals, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+Preparations of surimi,Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"White-fish meal, nei",Gadiformes,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Greenland cod, frozen",Greenland cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Grenadiers fillets, fresh or chilled",Grenadiers,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Grenadiers fillets, frozen",Grenadiers,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Grenadiers, fresh or chilled",Grenadiers,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Grenadiers, frozen",Grenadiers,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock dried, whether or not salted, but not smoked",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock fillets in blocks, frozen",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock fillets, fresh or chilled",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock fillets, frozen",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock meat, frozen",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock, fresh or chilled",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock, frozen",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock, minced, frozen",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock, salted or in brine",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Haddock, smoked",Haddock,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake fillets in blocks, frozen",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+Hake liver oil,Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake meat, frozen",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake minced, frozen",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake nei fillets, fresh or chilled",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake nei fillets, frozen",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake nei, fresh or chilled",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake nei, frozen",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake portions and sticks, frozen",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake, not minced, prepared or preserved",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hakes nei, frozen",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hakes, dried, salted or in brine",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hakes, dried, unsalted",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hakes, dried, whether or not salted, but not smoked",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hakes, salted or in brine",Hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake of the genus Urophycis, fillets, frozen",Hake of the genus Urophycis,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake of the genus Urophycis, fresh or chilled",Hake of the genus Urophycis,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Hake of the genus Urophycis, frozen",Hake of the genus Urophycis,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Ling fillets, frozen",Ling,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Ling meat, whether or not minced, frozen",Ling,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Ling, dried, salted or in brine",Ling,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Ling, dried, whether or not salted, but not smoked",Ling,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Ling, fresh or chilled",Ling,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Ling, frozen",Ling,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Ling, minced, frozen",Ling,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Pacific cod fillets, fresh or chilled",Pacific cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Pacific cod fillets, frozen",Pacific cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Pacific cod, fresh or chilled",Pacific cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Pacific cod, frozen",Pacific cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Pacific cod, meat, frozen",Pacific cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Polar cod, fresh or chilled",Polar cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Polar cod, frozen",Polar cod,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+Fresh or chilled pollack (Pollachius pollachius),Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+Frozen pollack (Pollachius pollachius),Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (= Pollock), salted or in brine",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (=Pollock) fillets in blocks, frozen",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (=Pollock) fillets, fresh or chilled",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (=Pollock) fillets, frozen",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (=Pollock), fresh or chilled",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (=Pollock), frozen",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (=Pollock), meat, frozen",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (=Pollock), minced, frozen",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe (=Pollock), not minced, prepared or preserved",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe, dried, salted or in brine",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Saithe, dried, whether or not salted, but not smoked",Saithe (=Pollock),MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Silver hake, fresh or chilled",Silver hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Silver hake, frozen",Silver hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Chilean hake fillets, fresh or chilled",South Pacific hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Chilean hake, fresh or chilled",South Pacific hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"South Pacific hake fillets, frozen",South Pacific hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"South Pacific hake, frozen",South Pacific hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Southern blue whiting (Micromesistius australis), fresh or chilled",Southern blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Southern blue whiting (Micromesistius australis), frozen",Southern blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Southern blue whiting fillets, fresh or chilled",Southern blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Southern blue whiting fillets, frozen",Southern blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Southern blue whiting, fresh or chilled",Southern blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Southern blue whiting, frozen",Southern blue whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Southern hake, fresh or chilled",Southern hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Southern hake, frozen",Southern hake,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Tusk, dried, salted or in brine",Tusk,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Tusk, dried, whether or not salted, but not smoked",Tusk,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Tusk, fresh or chilled",Tusk,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Tusk, frozen",Tusk,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Whiting (Merlangius merlangus), fresh or chilled",Whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Whiting fillets, fresh or chilled",Whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Whiting fillets, frozen",Whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Whiting, fresh or chilled",Whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+"Whiting, frozen",Whiting,MARINE FISHES,"Cods, hakes, haddocks","Cods, hakes, haddocks",1
+Capelin oil,Fish for reduction,MARINE FISHES,Fish for reduction,Fish for reduction,1
+"Clupeoid oils, nei",Fish for reduction,MARINE FISHES,Fish for reduction,Fish for reduction,1
+"Fish body oils, nei",Fish for reduction,MARINE FISHES,Fish for reduction,Fish for reduction,1
+Herring oil,Fish for reduction,MARINE FISHES,Fish for reduction,Fish for reduction,1
+Menhaden oil,Fish for reduction,MARINE FISHES,Fish for reduction,Fish for reduction,1
+Sardine oil,Fish for reduction,MARINE FISHES,Fish for reduction,Fish for reduction,1
+"Fish, crustacean and mollusc products, unfit for human consumption nei",Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,,,0
+"Alaska plaice, fresh or chilled",Alaska plaice,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Atlantic halibut, dried, salted or in brine",Atlantic halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Atlantic halibut, dried, whether or not salted",Atlantic halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Atlantic halibut, fresh or chilled",Atlantic halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Atlantic halibut, frozen",Atlantic halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Atlantic halibut, smoked",Atlantic halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Bastard halibut fillets, fresh or chilled",Bastard halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Bastard halibut fillets, frozen",Bastard halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Bastard halibut, fresh or chilled",Bastard halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Bastard halibut, frozen",Bastard halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Common dab, fresh or chilled",Common dab,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Common dab, frozen",Common dab,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Common sole fillets, fresh or chilled",Common sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Common sole fillets, frozen",Common sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Common sole, fresh or chilled",Common sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Common sole, frozen",Common sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"European plaice (Pleuronectes platessa), fresh or chilled",European plaice,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"European plaice fillets, fresh or chilled",European plaice,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"European plaice fillets, frozen",European plaice,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"European plaice, fresh or chilled",European plaice,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"European plaice, frozen",European plaice,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish fillets in blocks, frozen, nei",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish meat, fresh or chilled, nei",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish nei, fillets, fresh or chilled",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish nei, fillets, frozen",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish nei, frozen",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish nei, prepared or preserved, not minced",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish, fresh or chilled, nei",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish, meat, whether or not minced, frozen",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfish, salted or in brine, nei",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfishes nei, frozen",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfishes nei, salted or in brine",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flatfishes, fresh or chilled, nei",Flatfishes,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flounder fillets, fresh or chilled",Flounder,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flounder fillets, frozen",Flounder,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flounder, fresh or chilled",Flounder,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Flounder, frozen",Flounder,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Greenland halibut fillets, dried, salted or in brine",Greenland halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Greenland halibut fillets, frozen",Greenland halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Greenland halibut, dried, whether or not salted",Greenland halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Greenland halibut, fresh or chilled",Greenland halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Greenland halibut, frozen",Greenland halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Greenland halibut, smoked",Greenland halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Halibut nei, fillets, frozen",Halibuts,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Halibuts nei, fillets, fresh or chilled",Halibuts,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Halibuts nei, frozen",Halibuts,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Halibuts, fresh or chilled, nei",Halibuts,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Halibuts, liver oils",Halibuts,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Lemon sole fillets, fresh or chilled",Lemon sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Lemon sole fillets, frozen",Lemon sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Lemon sole, fresh or chilled",Lemon sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Lemon sole, frozen",Lemon sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Megrim fillets, fresh or chilled",Megrim,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Megrim fillets, frozen",Megrim,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Megrim, fresh or chilled",Megrim,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Megrim, frozen",Megrim,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Megrim, meat, whether or not minced, frozen",Megrim,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Pacific halibut, fresh or chilled",Pacific halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Pacific halibut, frozen",Pacific halibut,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Plaice fillets, frozen, nei",Plaices,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Plaices fillets, fresh or chilled, nei",Plaices,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Plaices, fresh or chilled, nei",Plaices,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Plaices, frozen, nei",Plaices,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Sole fillets, fresh or chilled, nei",Soles,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Sole fillets, frozen, nei",Soles,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Soles, fresh or chilled, nei",Soles,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Soles, frozen, nei",Soles,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Turbot fillets, fresh or chilled",Turbot,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Turbot fillets, frozen",Turbot,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Turbot, fresh or chilled",Turbot,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Turbot, frozen",Turbot,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Turbots, frozen",Turbot,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Yellowfin sole, frozen",Yellowfin sole,MARINE FISHES,"Flounders, halibuts, soles","Flounders, halibuts, soles",1
+"Anchovies minced, prepared or preserved",Anchovies,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Anchovies nei, dried, salted or in brine",Anchovies,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Anchovies, fillets, prepared or preserved",Anchovies,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Anchovies, fresh or chilled",Anchovies,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Anchovies, frozen",Anchovies,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Anchovies, prepared or preserved, not minced",Anchovies,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Anchovies, salted or in brine",Anchovies,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Anchovies, semi-preserved",Anchovies,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring fillets, fresh or chilled",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring fillets, frozen",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, dried, salted or in brine",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, fresh or chilled",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, frozen",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, not minced, in oil, prep. or pres.",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, not minced, marinated, prep. or pres.",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, not minced, prep. or pres., nei",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, not minced, smoked in oil, prep. or pres.",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, not minced, smoked in tomato sauce, prep. or pres.",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Atlantic herring, smoked",Atlantic herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Bonga shad, dried, salted, in brine, or smoked",Bonga shad,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Bonga shad, dried, whether or not salted, but not smoked",Bonga shad,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Brisling or sprats, fresh or chilled",Brisling or sprats,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Brisling or sprats, frozen",Brisling or sprats,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Sprat, prepared or preserved, not minced",Brisling or sprats,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoid nei, fillets, fresh or chilled",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoid nei, fillets, frozen",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, dried, salted or in brine",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, dried, unsalted",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, dried, whether or not salted",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, dried, whether or not salted, but not smoked",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, fillets, dried, salted or in brine",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, fillets, frozen",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, frozen",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, salted or in brine",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids nei, smoked",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids, fillets, fresh or chilled, nei",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids, fresh or chilled, nei",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids, meat, fresh or chilled, nei",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids, meat, whether or not minced, frozen, nei",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids, prep. or pres., not minced, not in airtight containers",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids, prepared or preserved, not minced, nei",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Clupeoids, salted or in brine, nei",Clupeoids,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"European anchovy, dried, salted or in brine",European anchovy,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"European anchovy, dried, whether or not salted, but not smoked",European anchovy,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"European anchovy, salted",European anchovy,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"European sardine , fresh or chilled",European sardine,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"European sardine, frozen",European sardine,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"European sardine, prepared or preserved, not minced, in oil",European sardine,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"European sardine, prepared or preserved, not minced, nei",European sardine,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Flaps of herring, fresh or chilled",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring fillets, dried, salted or in brine",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring fillets, incl. coated in batter, cooked or not",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring kippers, prepared or preserved",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+Herring meal,Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring meat, frozen",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring nei, fillets, fresh or chilled",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring nei, fillets, frozen",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring roes, cured",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring roes, frozen",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herring, salted or in brine",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings minced, prepared or preserved",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings nei, dried, salted or in brine",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings nei, frozen",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings nei, smoked",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings prepared or preserved, not minced, nei",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings, dried, whether or not salted",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings, fresh or chilled, nei",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings, not minced, in oil, prepared or preserved",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings, not minced, marinated, prepared or preserved",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings, not minced, pickled, incl. fillets, prep. or pres.",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings, not minced, prep. or pres. in airtight containers, nei",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings, not minced, prep. or pres., not in airtight containers",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Herrings, not minced, smoked, in oil or in tomato sauce, prep. or pres.",Herrings,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pacific herring, fresh or chilled",Pacific herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pacific herring, frozen",Pacific herring,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchard fillets, frozen",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards (Sardinops spp.), prep. or pres., not minced, in oil",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards (Sardinops spp.), prep. or pres., not minced, in tomato sauce",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards (Sardinops spp.), prep. or pres., not minced, nei",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards(Sardinops spp.) and Sardinellas, fresh or chilled",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards(Sardinops spp.) and Sardinellas, frozen",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards, dried, salted or in brine",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards, dried, unsalted",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards, dried, whether or not salted, but not smoked",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Pilchards, salted or in brine",Pilchards(Sardinops spp.) and Sardinellas,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Sardines and sprats, smoked","Sardines, sardinellas, brisling or sprats",MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Sardines, sardinellas, brisling or sprats, fresh or chilled","Sardines, sardinellas, brisling or sprats",MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Sardines, sardinellas, brisling or sprats, frozen","Sardines, sardinellas, brisling or sprats",MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Sardines, sardinellas, brisling or sprats, prep. or pres., not minced, in oil","Sardines, sardinellas, brisling or sprats",MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Sardines, sardinellas, brisling or sprats, prep. or pres., not minced, nei","Sardines, sardinellas, brisling or sprats",MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Sardines, sardinellas, sprats minced, prepared or preserved","Sardines, sardinellas, brisling or sprats",MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"South African pilchard, prep. or pres., not minced",South African pilchard,MARINE FISHES,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",1
+"Balls, cakes, sausages, etc.prepared from minced fish",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fingers, sticks, prepared with minced fish",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+Fish cakes,Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish crustacean and mollusc products, unfit for human consumption nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish dried, whether or not salted, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish fillets in blocks, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish fillets, dried, salted or in brine",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish fillets, dried, salted or in brine, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish fillets, fresh or chilled, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish fillets, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish fillets, prep. or pres, incl. raw, coated in batter or breadcrum, cooked or not, frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish fillets, smoked",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish for culture incl. ova, fingerlings etc.",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish heads, tail, maws etc., dried, salted, or in brine",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish heads, tails, maws, tongues, fresh or chilled",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish heads, tails, maws, tongues, frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish live, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish liver oils, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish livers, dried, salted or in brine",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish livers, fresh or chilled",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish livers, frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish livers, roes, etc., prepared or preserved",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish livers, roes, etc., prepared or preserved, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish meal fit for human consumption, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish meals, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish meat, whether or not minced nei, fresh or chilled",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish meat, whether or not minced, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish meat,whether or not minced, fresh,chilled,frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish minced (=surimi), frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish minced nei, in airtight containers prepared or preserved",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish minced nei, not in airtight containers prepared or preserved",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish minced nei, prepared or preserved",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish nei, dried and salted",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish nei, dried, unsalted",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish nei, prepared or preserved, not minced",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish nei, salted or in brine",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish nei, smoked",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish not minced, prep. or pres., in airtight containers",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish not minced, prep. or pres., not in airtight containers",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+Fish paste,Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish portions and sticks, nei, frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish products (not fillets), dried, salted or in brine",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish products (not minced), semi-preserved",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish roes, dried, salted or in brine, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish roes, fresh or chilled",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish roes, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish roes, prepared, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish solubles, silages, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish spiced, marinated, etc., not minced, prep. or pres.",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish steaks, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish waste, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish, dried, salted or smoked",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish, fresh or chilled, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish, fresh, chilled or frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fish, sauce",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fishmeal fit for human consumption, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Fishmeals, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Livers and roes, smoked",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Livers, roes, milt, dried, salted or in brine, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Livers, roes, milt, fresh or chilled, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Livers, roes, milt, frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Livers, roes, milt, smoked, dried, salted or in brine",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish fillets in blocks, nei, frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish fillets, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish fillets, nei, frozen",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish fillets, smoked",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish meat,whether or not minced nei, fresh or chilled",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish nei, minced, prepared or preserved",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish nei, prepared or preserved, not minced",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish nei, smoked",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish, fillets, dried, salted or in brine, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish, fresh or chilled, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Marine fish, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Miscellaneous dried fish, whether or not salted, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Miscellaneous marine fish fillets, fresh or chilled, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Miscellaneous marine fish meat, minced or not, frozen, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Miscellaneous marine fish nei, dried, whether or not salted",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Miscellaneous marine fish, salted or in brine, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Miscellaneous marine fishes nei, dried, whether or not salted",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Miscellaneous marine fishes, salted or in brine, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Other  edible fish offal, dried, salted or in brine",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Saltwater fish nei, live",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+Solubles from fish,Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Solubles from fish and marine mammals, nei",Misc. marine fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+Ornamental fish nei,Ornamental saltwater fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+Ornamental saltwater fish,Ornamental saltwater fishes,MARINE FISHES,Marine fishes not identified,Marine fishes not identified,1
+"Atka mackerel, fresh or chilled",Atka mackerel,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Atka mackerel, frozen",Atka mackerel,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Corb, frozen",Croakers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Croakers, fresh or chilled",Croakers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Croakers, frozen",Croakers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Dentex, fresh or chilled",Dentex,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Drum, fresh or chilled",Drum,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Drum, frozen",Drum,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Emperors, fresh or chilled",Emperors,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Emperors, frozen",Emperors,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Filefish, fresh or chilled",Filefish,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Filefish, frozen",Filefish,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Fusiliers, fresh or chilled",Fusiliers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Fusiliers, frozen",Fusiliers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Gilt-head seabream, fresh or chilled",Gilt-head seabream,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Gilt-head seabream, frozen",Gilt-head seabream,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Grouper, fresh or chilled",Grouper,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Grouper, frozen",Grouper,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Grunt, fresh or chilled",Grunt,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Grunt, frozen",Grunt,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Lizardfish, fresh or chilled",Lizardfish,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Lizardfish, frozen",Lizardfish,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Coastal fish meat, whether or not minced, fresh or chilled, nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Coastal fish meat, whether or not minced, frozen, nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish nei, fillets, dried, salted or in brine",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish, dried, whether or not salted",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish, fillets in blocks, frozen, nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish, fillets, fresh or chilled, nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish, nei, dried, unsalted",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish, nei, frozen",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish, nei, smoked",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish, not minced, prep. or pres., nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish, salted or in brine, nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fish,nei, fresh or chilled",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes fillets, frozen,  nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes fillets, nei, frozen",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes, dried, whether or not salted",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes, fillets, nei, fresh or chilled",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes, nei, dried, unsalted",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes, nei, frozen",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes, nei,dried, salted or in brine",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes, not minced, prep. or pres., nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes, salted or in brine, nei",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Miscellaneous coastal fishes,nei, fresh or chilled",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Spinefeet (=rabbitfish), fresh or chilled",Misc. coastal fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Pandora, fresh or chilled",Pandora,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Pandora, frozen",Pandora,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Pony fishes, frozen",Pony fishes,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Puffer, fresh or chilled",Puffers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Puffers, frozen",Puffers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Red mullet, fresh or chilled",Red mullet,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Red mullet, frozen",Red mullet,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Sandeels, dried, unsalted",Sandlance,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Sandlance, fresh or chilled",Sandlance,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Sandlance, frozen",Sandlance,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Sea catfish, fresh or chilled",Sea catfish,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Sea catfish, frozen",Sea catfish,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Seabass, fresh or chilled",Seabass,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Seabass, frozen",Seabass,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Seabreams nei, fresh or chilled",Seabreams,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Seabreams, frozen",Seabreams,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Snapper, fresh or chilled",Snappers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Snappers, frozen",Snappers,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Snook, frozen",Snook,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Weakfish, fresh or chilled",Weakfish,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Weakfish, frozen",Weakfish,MARINE FISHES,Miscellaneous coastal fishes,Miscellaneous coastal fishes,1
+"Angler (=Monk) fillets, frozen",Angler (=Monk),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Angler (=monk), fresh or chilled",Angler (=monk),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Angler (=monk), frozen",Angler (=monk),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Angler (=monk), meat, frozen",Angler (=monk),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Atlantic redfish, minced, frozen",Atlantic redfishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Atlantic redfishes fillets in blocks, frozen",Atlantic redfishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Atlantic redfishes, fillets, frozen",Atlantic redfishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Atlantic redfishes, fresh or chilled",Atlantic redfishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Atlantic redfishes, frozen",Atlantic redfishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Conger, fresh or chilled",Conger,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Conger, frozen",Conger,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Cusk-eel (=kingklip), fresh or chilled",Cusk-eel (=kingklip),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Cusk-eel (=kingklip), frozen",Cusk-eel (=kingklip),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Gurnard, fresh or chilled",Gurnard,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Gurnard, frozen",Gurnard,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Hairtails, fresh or chilled",Hairtails,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Hairtails, frozen",Hairtails,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"John dory, fresh or chilled",John dory,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"John dory, frozen",John dory,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Lumpfish roes, prepared",Lumpfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Lumpfish roes, salted",Lumpfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Spinefeet(=rabbitfish), frozen",Misc. coastal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Demersal fish meat, whether or not minced, frozen, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish meat, fresh or chilled, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish nei, fillets, dried, salted or in brine",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish, dried, whether or not salted, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish, fillets in blocks, frozen, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish, fillets, fresh or chilled, nei,",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish, fillets, frozen, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish, nei, frozen",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish, not minced, prep. or pres., nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish, salted or in brine, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish, smoked, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fish,nei, fresh or chilled",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fishes, fillets, nei,fresh or chilled",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fishes, nei, dried, salted or in brine",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fishes, nei, fillets, frozen",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fishes, nei, frozen",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fishes, not minced, prep. or pres., nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fishes, salted or in brine, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fishes, smoked, nei",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Miscellaneous demersal fishes,nei, fresh or chilled",Misc. demersal fishes,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Orange roughy, frozen",Orange roughy,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Oreo dories, fresh or chilled",Oreo dories,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Oreo dories, frozen",Oreo dories,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Pacific redfishes (=ocean perch), fresh or chilled",Pacific redfishes (=ocean perch),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Pacific redfishes (=ocean perch), frozen",Pacific redfishes (=ocean perch),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Pike-conger, fresh or chilled",Pike-conger,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Pike-conger, frozen",Pike-conger,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Redfish fillets, fresh or chilled",Redfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+Redfish meal,Redfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Redfish meat, frozen, whether or not minced, nei",Redfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Redfish nei, fillets, frozen",Redfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+Redfish oil,Redfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Redfish, frozen, nei",Redfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Redfishes, fresh or chilled, nei",Redfish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Sablefish, fresh or chilled",Sablefish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Sablefish, frozen",Sablefish,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Snoek, fresh or chilled",Snoek,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Snoek, frozen",Snoek,MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Toothfish (Dissostichus spp.), fillets, fresh or chilled",Toothfish (Dissostichus spp.),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Toothfish (Dissostichus spp.), fillets, frozen",Toothfish (Dissostichus spp.),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Toothfish (Dissostichus spp.), fresh or chilled",Toothfish (Dissostichus spp.),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Toothfish (Dissostichus spp.), frozen",Toothfish (Dissostichus spp.),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Toothfish (Dissostichus spp.), meat, fresh or chilled",Toothfish (Dissostichus spp.),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Toothfish (Dissostichus spp.), meat, frozen",Toothfish (Dissostichus spp.),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Wolffish (=Catfish) fillets, frozen",Wolffishes (=Catfishes),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Wolffish (=catfish), fresh or chilled",Wolffishes (=Catfishes),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Wolffishes (=Catfishes), frozen",Wolffishes (=Catfishes),MARINE FISHES,Miscellaneous demersal fishes,Miscellaneous demersal fishes,1
+"Amberjack fillets, frozen",Amberjacks,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Amberjacks, fresh or chilled",Amberjacks,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Amberjacks, frozen",Amberjacks,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Atlantic mackerel prepared or preserved, not minced",Atlantic mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Atlantic mackerel, fresh or chilled",Atlantic mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Atlantic mackerel, frozen",Atlantic mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Blue mackerel, frozen",Blue mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Bluefish, frozen",Bluefish,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+Capelin meal,Capelin,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Capelin roes, frozen",Capelin,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Capelin, fresh or chilled",Capelin,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Capelin, frozen",Capelin,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Chub mackerel prepared or preserved, not minced",Chub mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Chub mackerel prepared or preserved, not minced, in brine",Chub mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Chub mackerel prepared or preserved, not minced, in oil",Chub mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Chub mackerel prepared or preserved, not minced, in tomato sauce",Chub mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Chub mackerel, fresh or chilled",Chub mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Chub mackerel, frozen",Chub mackerel,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Cobia, fresh or chilled",Cobia,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Cobia, frozen",Cobia,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Dolphinfishes, fresh or chilled",Dolphinfishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Dolphinfishes, frozen",Dolphinfishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Flying fish, fillets, fresh or chilled",Flyingfishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Flyingfishes, fresh or chilled",Flyingfishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Flyingfishes, frozen",Flyingfishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Jack and horse mackerel prepared or preserved, not minced",Jack and horse mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Jack and horse mackerel, frozen",Jack and horse mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Jack and horse mackerels, fresh or chilled",Jack and horse mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerel fillets, frozen",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerel prepared or preserved, not minced, nei",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerel, dried, salted or in brine",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerel, dried, whether or not salted, but not smoked",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerel, minced, prepared or preserved",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerels nei, frozen",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerels nei, prep. or pres., not minced, in oil or in brine",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerels nei, salted or in brine",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerels, fillets, prepared or preserved",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerels, nei, fresh or chilled",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Mackerels, smoked",Mackerels,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Icefish, frozen",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish fillets, frozen, nei",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish meat, nei, frozen",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish nei, dried, whether or not salted",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish nei, fillets, dried, salted or in brine",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish nei, minced, prepared or preserved",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish nei, prep. or pres., not minced",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish, fillets, fresh or chilled, nei",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish, nei, fresh or chilled",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish, nei, frozen",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fish, nei, smoked",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fishes fillets nei, frozen",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fishes nei, minced, prepared or preserved",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fishes, fillets, fresh or chilled, nei",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fishes, nei, dried, salted or in brine",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fishes, nei, fresh or chilled",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fishes, nei, frozen",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fishes, nei, smoked",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagic fishes, salted or in brine, nei",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Miscellaneous pelagics nei, prep. or pres., not minced",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Pelagic fish meat, whether or not minced, fresh or chilled, nei",Misc. pelagic fishes,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Pacific sauries prepared or preserved, not minced",Pacific sauries,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Pomfrets, ocean breams, fillets, frozen","Pomfrets, ocean breams",MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Pomfrets, ocean breams, fresh or chilled","Pomfrets, ocean breams",MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Pomfrets, ocean breams, frozen","Pomfrets, ocean breams",MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Pomfrets, ocean breams, meat, frozen","Pomfrets, ocean breams",MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Saury, dried, salted or in brine",Saury,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Saury, dried, whether or not salted, but not smoked",Saury,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Saury, fresh or chilled",Saury,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Saury, frozen",Saury,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Scads, frozen",Scads,MARINE FISHES,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,1
+"Catsharks, nursehounds, fresh or chilled","Catsharks, nursehounds",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Catsharks, nursehounds, frozen","Catsharks, nursehounds",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Dogfish (Squalidae), fresh or chilled",Dogfish (Squalidae),MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Dogfish (Squalidae), frozen",Dogfish (Squalidae),MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Dogfish (Squalidae) and catshark fillets, frozen",Dogfish (Squalidae) and catshark,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Porbeagle shark (Lamna nasus), fillets, frozen",Porbeagle shark (Lamna nasus),MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Porbeagle shark (Lamna nasus), fresh or chilled",Porbeagle shark (Lamna nasus),MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Porbeagle shark (Lamna nasus), frozen",Porbeagle shark (Lamna nasus),MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark  meat, frozen",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fillets nei, frozen",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fillets, fresh or chilled",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fins, dried, salted, etc.",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fins, dried, unsalted",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fins, dried, whether or not salted, etc.",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fins, fresh or chilled",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fins, frozen",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fins, prepared or preserved",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Shark fins, salted and in brine but not dried or smoked",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+Shark liver oil,Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+Shark oil,Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks nei, fresh or chilled",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks nei, frozen",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, dried, salted or in brine",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, dried, whether or not salted, but not smoked",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, fillets, dried, salted or in brine",Sharks,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Rays and skates (Rajidae), fresh or chilled","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Rays and skates (Rajidae), frozen","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Rays, chimaeras meat, frozen","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, rays, chimaeras nei, frozen","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, rays, chimaeras, smoked, nei","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, rays, chimeras etc. meat, whether or not minced, fresh or chilled, nei","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, rays, chimeras, dried, whether or not salted, nei","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, rays, chimeras, salted or in brine, nei","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, rays, etc., dried, salted or in brine","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks, rays, skates, fresh or chilled, nei","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks,rays,chimaeras, nei fillets fresh or chilled","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks,rays,chimaeras, skates, fillets,  frozen,  nei","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Sharks,rays,chimaeras, skates, nei fillets frozen","Sharks, rays, skates, chimaeras",MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Skates, fresh or chilled",Skates,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Skates, frozen",Skates,MARINE FISHES,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",1
+"Albacore (=Longfin tuna), fresh or chilled",Albacore (=Longfin tuna),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Albacore (=Longfin tuna), frozen, nei",Albacore (=Longfin tuna),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Albacore (=Longfin tuna), gilled, gutted, frozen",Albacore (=Longfin tuna),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Albacore (=Longfin tuna), heads-off, etc., frozen",Albacore (=Longfin tuna),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Albacore (=Longfin tuna), prep. or pres., not minced, nei",Albacore (=Longfin tuna),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Albacore (=Longfin tuna), prepared or preserved, not minced, in oil",Albacore (=Longfin tuna),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Atlantic(Thunnus thynnus), Pacific(T.orientalis) bluefin tuna, live",Atlantic(Thunnus thynnus) and Pacific(Thunnus orientalis)bluefin tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Atlantic(Thunnus thynnus)and Pacific(Thunnus orientalis)bluefin tuna, fresh or chilled",Atlantic(Thunnus thynnus) and Pacific(Thunnus orientalis)bluefin tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Atlantic(Thunnus thynnus)and Pacific(Thunnus orientalis)bluefin tuna, frozen",Atlantic(Thunnus thynnus) and Pacific(Thunnus orientalis)bluefin tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Bigeye tuna, fresh or chilled",Bigeye tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Bigeye tuna, frozen, nei",Bigeye tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Bigeye tuna, gilled, gutted, frozen",Bigeye tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Bigeye tuna, heads-off, etc., frozen",Bigeye tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Bonito (Sarda spp.), not minced, prepared or preserved, nei",Bonito,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Bonito, dried, salted, or in brine",Bonito,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Bonito, dried, whether or not salted, but not smoked",Bonito,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Bonito, frozen",Bonito,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Euthynnus exc. skipjack or stripe-bellied bonitos, frozen",Euthynnus excl. skipjack or stripe-bellied bonitos,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Euthynnus excl. skipjack or stripe-bellied bonitos, fresh or chilled",Euthynnus excl. skipjack or stripe-bellied bonitos,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Euthynnus excl. skipjack or stripe-bellied bonitos, frozen",Euthynnus excl. skipjack or stripe-bellied bonitos,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Euthynnus other than skipjack prep. or pres. not minced, nei",Euthynnus excl. skipjack or stripe-bellied bonitos,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Loins of Euthynnus other than skipjack, prep. or pres.",Euthynnus excl. skipjack or stripe-bellied bonitos,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Marlins, fresh or chilled",Marlins,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Marlins, frozen",Marlins,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Plain bonito prep. or pres., not minced",Plain bonito,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Plain bonito, frozen",Plain bonito,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Skipjack prepared or preserved, not minced, nei",Skipjack tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Skipjack tuna, fresh or chilled",Skipjack tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Skipjack tuna, frozen",Skipjack tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Skipjack tuna, gilled, gutted, frozen",Skipjack tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Skipjack tuna, heads-off, etc., frozen",Skipjack tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Skipjack tuna, smoked",Skipjack tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Skipjack, prepared or preserved, whole or in pieces, not minced, in oil",Skipjack tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Southern bluefin tuna(Thunnus maccoyii), fresh or chilled",Southern bluefin tuna(Thunnus maccoyii),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Southern bluefin tuna(Thunnus maccoyii), frozen",Southern bluefin tuna(Thunnus maccoyii),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Southern bluefin tuna(Thunnus maccoyii), live",Southern bluefin tuna(Thunnus maccoyii),MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Spanish mackerel, fresh or chilled",Spanish mackerel,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Spanish mackerel, frozen",Spanish mackerel,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Swordfish fillets, fresh or chilled",Swordfish,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Swordfish fillets, frozen",Swordfish,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Swordfish meat, frozen",Swordfish,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Swordfish, fresh or chilled",Swordfish,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Swordfish, frozen",Swordfish,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Swordfish, meat, fresh or chilled",Swordfish,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tuna loins and fillets, fresh or chilled",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tuna loins and fillets, frozen",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tuna loins, prepared or preserved",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+Tuna meal,Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tuna meat, whether or not minced, frozen",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas nei, dried, unsalted",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas nei, frozen",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas nei, minced, prepared or preserved",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas nei, salted or in brine",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas nei, smoked",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas prepared or preserved, not minced, in airtight containers",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas prepared or preserved, not minced, in oil",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas prepared or preserved, not minced, nei",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas prepared or preserved, not minced, not in airtight containers",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, fresh or chilled, nei",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, gilled, gutted, frozen, nei",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, heads-off, etc., frozen, nei",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, meat, fresh or chilled",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, nei, dried, whether or not salted, but not smoked",Tunas,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes etc, fillets, frozen, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes fillets, fresh or chilled, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, etc., dried, whether or not salted, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, fillets, dried, salted or in brine, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, fresh or chilled, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, frozen, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, meat, fresh or chilled, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, meat, whether or not minced, frozen, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, nei, minced, prepared or preserved","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, salted or in brine, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Tunas, bonitos, billfishes, smoked, nei","Tunas, bonitos, billfishes",MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Yellowfin tuna, fresh or chilled",Yellowfin tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Yellowfin tuna, frozen, nei",Yellowfin tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Yellowfin tuna, gilled, gutted, frozen",Yellowfin tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+"Yellowfin tuna, heads-off, etc., frozen",Yellowfin tuna,MARINE FISHES,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",1
+Jellyfish preparations,Jellyfish,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Jellyfish, dried, salted or in brine",Jellyfish,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Jellyfish, frozen",Jellyfish,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Jellyfish, live, fresh or chilled",Jellyfish,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Jellyfish, other than live, fresh or chilled",Jellyfish,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Jellyfish, other than prepared or preserved",Jellyfish,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Aquatic animals oils and fats, nei",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,,,0
+"Aquatic animals, oils and fats, nei",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,,,0
+"Aquatic invertebrates, other than live, fresh or chilled, nei",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Aquatic invertebrates, other than prepared or preserved",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Miscellaneous aq. invert., dried, salted or in brine, nei",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Oils and fats of aquatic animals, nei",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,,,0
+"Other aquatic invertebrates, frozen",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Other aquatic invertebrates, live, fresh or chilled",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Other aquatic invertebrates, prepared or preserved",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Other aquatic invertebrates, prepared or preserved, nei",Misc. aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,1
+"Sea-cucumber, dried, salted or in brine",Sea-cucumber,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-cucumber, frozen",Sea-cucumber,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-cucumber, live, fresh or chilled",Sea-cucumber,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-cucumber, other than live, fresh or chilled",Sea-cucumber,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-cucumber, prepared or preserved",Sea-cucumber,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-urchin, fermented or in brine",Sea-urchin,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-urchin, frozen",Sea-urchin,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-urchin, live, fresh or chilled",Sea-urchin,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-urchin, other than live, fresh or chilled",Sea-urchin,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Sea-urchin, prepared or preserved",Sea-urchin,MISCELLANEOUS AQUATIC ANIMALS,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,1
+"Abalone meat, frozen",Abalones,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Abalone meat, prepared or preserved",Abalones,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Abalones, dried",Abalones,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Abalones, shucked or not, live,fresh or chilled",Abalones,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Abalones, shucked or not, other than live,fresh or chilled",Abalones,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Stromboid conchs, frozen",Stromboid conchs,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Stromboid conchs, live, fresh or chilled",Stromboid conchs,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Top shell, live, fresh or chilled",Top shell,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Univalves meat, prepared or preserved, nei",Univalves,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Univalves nei, frozen",Univalves,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Univalves, dried, salted or in brine, nei",Univalves,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Univalves, live, fresh or chilled, nei",Univalves,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Univalves, other than live, fresh or chilled, nei",Univalves,MOLLUSCS,"Abalones, winkles, conchs","Abalones, winkles, conchs",1
+"Arkshell, fresh or chilled",Arkshells,MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Arkshells, frozen",Arkshells,MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Bivalves nei, frozen","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Bivalves, live, fresh or chilled, nei","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Clam meat, frozen","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Clams, cockles, arkshells nei, dried, salted or in brine","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Clams, cockles, arkshells, etc., prep. or pres., nei","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Clams, cockles, arkshells, live, fresh or chilled","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Clams, cockles, arkshells, other than live, fresh or chilled","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Clams, prep. or pres., whether or not in airtight containers","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Clams, shucked or not, live, fresh or chilled","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Clams, shucked or not, other than live, fresh or chilled","Clams, cockles, arkshells",MOLLUSCS,"Clams, cockles, arkshells","Clams, cockles, arkshells",1
+"Miscellaneous molluscs, other than live, fresh or chilled, nei",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Mollusc preparations, not in airtight containers",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs live, for human food, nei",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs live, spat, for breeding and other purposes, nei",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs nei, dried, salted, pickled, etc.",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs nei, frozen",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs nei, live, fresh or chilled",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs nei, prepared or preserved",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs nei, shucked, fresh or chilled",Molluscs,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Miscellaneous molluscs & aq. inver., other than live, fresh or chilled, nei",Molluscs and other aquatic invertebrates,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs and other aq. invertebrates, dried, salted, etc.",Molluscs and other aquatic invertebrates,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs and other aq. invertebrates, live, fresh or chilled, nei",Molluscs and other aquatic invertebrates,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs and other aq. invertebrates, prep. or pres.",Molluscs and other aquatic invertebrates,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs and other aq.invertebrates, frozen",Molluscs and other aquatic invertebrates,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Molluscs and other aqu. invertebrates, live, fresh or chilled, nei",Molluscs and other aquatic invertebrates,MOLLUSCS,Miscellaneous marine molluscs,Miscellaneous marine molluscs,1
+"Mussel meat nei, frozen",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussel meat, prep. or pres., in airtight containers",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussel meat, prep. or pres., not in airtight containers",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussel meat, prepared or preserved",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussel meat, prepared or preserved, nei",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussels nei, other than live, fresh or chilled",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussels, dried, salted or in brine",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussels, dried, salted or in brine, nei",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussels, live, fresh or chilled, nei",Mussels,MOLLUSCS,Mussels,Mussels,1
+"Mussels of the genus Mytilus spp., live, fresh or chilled",Mussels of the genus Mytilus spp.,MOLLUSCS,Mussels,Mussels,1
+"Mussels of the genus Mytilus spp., other than live, fresh or chilled",Mussels of the genus Mytilus spp.,MOLLUSCS,Mussels,Mussels,1
+"Mussels of the genus Perna spp. live, fresh or chilled",Mussels of the genus Perna spp.,MOLLUSCS,Mussels,Mussels,1
+"Mussels of the genus Perna spp., other than live, fresh or chilled",Mussels of the genus Perna spp.,MOLLUSCS,Mussels,Mussels,1
+"European flat oyster, frozen",Flat oyster,MOLLUSCS,Oysters,Oysters,1
+"European flat oyster, shucked or not, live, fresh or chilled",Flat oyster,MOLLUSCS,Oysters,Oysters,1
+"Flat oysters, frozen",Flat oyster,MOLLUSCS,Oysters,Oysters,1
+"Flat oysters, shucked or not, live, fresh or chilled",Flat oyster,MOLLUSCS,Oysters,Oysters,1
+"Oyster meat nei, frozen",Oysters,MOLLUSCS,Oysters,Oysters,1
+"Oyster meat, prepared or preserved, nei",Oysters,MOLLUSCS,Oysters,Oysters,1
+Oyster sauce,Oysters,MOLLUSCS,Oysters,Oysters,1
+"Oysters, dried",Oysters,MOLLUSCS,Oysters,Oysters,1
+"Oysters, dried, salted or in brine",Oysters,MOLLUSCS,Oysters,Oysters,1
+"Oysters, in shell, live fresh or chilled",Oysters,MOLLUSCS,Oysters,Oysters,1
+"Oysters, live",Oysters,MOLLUSCS,Oysters,Oysters,1
+"Oysters, live fresh or chilled, nei",Oysters,MOLLUSCS,Oysters,Oysters,1
+"Oysters, other than live, fresh or chilled, nei",Oysters,MOLLUSCS,Oysters,Oysters,1
+"Oysters, shucked, fresh or chilled",Oysters,MOLLUSCS,Oysters,Oysters,1
+"Scallop meat, prepared or preserved",Scallops,MOLLUSCS,"Scallops, pectens","Scallops, pectens",1
+"Scallops meat, frozen",Scallops,MOLLUSCS,"Scallops, pectens","Scallops, pectens",1
+"Scallops, dried, salted or in brine",Scallops,MOLLUSCS,"Scallops, pectens","Scallops, pectens",1
+"Scallops, dried, salted or in brine, nei",Scallops,MOLLUSCS,"Scallops, pectens","Scallops, pectens",1
+"Scallops, live, fresh or chilled, nei",Scallops,MOLLUSCS,"Scallops, pectens","Scallops, pectens",1
+"Scallops, other than live, fresh or chilled",Scallops,MOLLUSCS,"Scallops, pectens","Scallops, pectens",1
+"Scallops, shucked, fresh or chilled, nei",Scallops,MOLLUSCS,"Scallops, pectens","Scallops, pectens",1
+"Cephalopods nei, dried, salted or in brine",Cephalopods,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cephalopods nei, frozen",Cephalopods,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cephalopods, live, fresh or chilled, nei",Cephalopods,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cephalopods, preparations, not in airtight containers",Cephalopods,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cephalopods, prepared or preserved, nei",Cephalopods,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cephalopods, smoked",Cephalopods,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+Cuttlefish bones,Cuttlefishes,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes, dried, salted or in brine",Cuttlefishes,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes, frozen",Cuttlefishes,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes, live, fresh or chilled, nei",Cuttlefishes,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes, other than live, fresh or chilled",Cuttlefishes,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes, prepared or preserved",Cuttlefishes,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes (Sepia off., Rossia macrosoma, Sepiola rondeleti), frozen","Cuttlefishes (Sepia off., Rossia macrosoma, Sepiola rondeleti)",MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes (Sepia off., Rossia macrosoma, Sepiola rondeleti), live, fresh or chilled","Cuttlefishes (Sepia off., Rossia macrosoma, Sepiola rondeleti)",MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefish and squid, other than live, fresh or chilled",Cuttlefishes and squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefish and squid, prepared or preserved",Cuttlefishes and squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefish and squids, smoked",Cuttlefishes and squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes and squids, dried, salted or in brine, nei",Cuttlefishes and squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes and squids, frozen, nei",Cuttlefishes and squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Cuttlefishes and squids, live, fresh or chilled, nei",Cuttlefishes and squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Octopus, dried, salted or in brine",Octopus,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Octopus, frozen",Octopus,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Octopus, live, fresh or chilled",Octopus,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Octopus, other than live, fresh or chilled",Octopus,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Octopus, prepared or preserved",Octopus,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Octopus, smoked",Octopus,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+Squid oil,Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squid rings, frozen",Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids nei, frozen",Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids, dried, salted or in brine",Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids, live,fresh or chilled, nei",Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids, other than live, fresh or chilled",Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids, prepared or preserved, nei",Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids, salted or pickled",Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids, seasoned",Squids,MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids (Illex spp.), frozen",Squids (Illex spp.),MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids (Illex spp.), live, fresh or chilled",Squids (Illex spp.),MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids (Ommastrephes sagittatus, Loligo spp.), frozen","Squids (Ommastrephes sagittatus, Loligo spp.)",MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+"Squids (Ommastrephes sagittatus, Loligo spp.), live, fresh or chilled","Squids (Ommastrephes sagittatus, Loligo spp.)",MOLLUSCS,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",1
+Liver meal from aquatic mammals,Aquatic mammals,AQUATIC MAMMALS,Miscellaneous aquatic mammals,Aquatic mammals,0
+"Marine mammal oils, nei",Aquatic mammals,AQUATIC MAMMALS,Miscellaneous aquatic mammals,Aquatic mammals,0
+Meat meal from whales,Aquatic mammals,AQUATIC MAMMALS,Miscellaneous aquatic mammals,Aquatic mammals,0
+Seal oil,Aquatic mammals,AQUATIC MAMMALS,Miscellaneous aquatic mammals,Aquatic mammals,0
+Solubles from marine mammals,Aquatic mammals,AQUATIC MAMMALS,Miscellaneous aquatic mammals,Aquatic mammals,0
+Sperm oil,Aquatic mammals,AQUATIC MAMMALS,Miscellaneous aquatic mammals,Aquatic mammals,0
+Whale oil,Aquatic mammals,AQUATIC MAMMALS,Miscellaneous aquatic mammals,Aquatic mammals,0
+Hizikia fusiforme (brown algae),Aquatic plants,AQUATIC PLANTS,Brown seaweeds,Aquatic plants,0
+Kelp,Aquatic plants,AQUATIC PLANTS,Brown seaweeds,Aquatic plants,0
+Kelp meal,Aquatic plants,AQUATIC PLANTS,Brown seaweeds,Aquatic plants,0
+"Other brown algae (laminaria, eisenia/ecklonia)",Aquatic plants,AQUATIC PLANTS,Brown seaweeds,Aquatic plants,0
+Undaria pinnafitida (brown algae),Aquatic plants,AQUATIC PLANTS,Brown seaweeds,Aquatic plants,0
+Green laver,Aquatic plants,AQUATIC PLANTS,Green seaweeds,Aquatic plants,0
+Other edible seaweeds,Aquatic plants,AQUATIC PLANTS,Miscellaneous aquatic plants,Aquatic plants,0
+Other inedible seaweeds,Aquatic plants,AQUATIC PLANTS,Miscellaneous aquatic plants,Aquatic plants,0
+Other seaweeds and aquatic plants and products thereof,Aquatic plants,AQUATIC PLANTS,Miscellaneous aquatic plants,Aquatic plants,0
+Agar agar in powder,Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+Agar agar in strips,Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+Agar agar nei,Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+Carrageen (Chondrus crispus),Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+"Laver, dry",Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+"Laver, nei",Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+Other red algae,Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+"Seaweeds and other algae, fit for human consumption, nei",Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+"Seaweeds and other algae, unfit for human consumption, nei",Aquatic plants,AQUATIC PLANTS,Red seaweeds,Aquatic plants,0
+Coral and the like,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,Corals,Miscellaneous aquatic animal products,0
+Miscellaneous corals and shells,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,Corals,Miscellaneous aquatic animal products,0
+Abalone shells,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,"Pearls, mother-of-pearl, shells",Miscellaneous aquatic animal products,0
+Mother of pearl shells,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,"Pearls, mother-of-pearl, shells",Miscellaneous aquatic animal products,0
+Oyster shells,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,"Pearls, mother-of-pearl, shells",Miscellaneous aquatic animal products,0
+Powder and waste of shells,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,"Pearls, mother-of-pearl, shells",Miscellaneous aquatic animal products,0
+Sea snail shells,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,"Pearls, mother-of-pearl, shells",Miscellaneous aquatic animal products,0
+Shells nei,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,"Pearls, mother-of-pearl, shells",Miscellaneous aquatic animal products,0
+Trochus shells,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,"Pearls, mother-of-pearl, shells",Miscellaneous aquatic animal products,0
+Natural sponges nei,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,Sponges,Miscellaneous aquatic animal products,0
+Natural sponges other than raw,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,Sponges,Miscellaneous aquatic animal products,0
+Natural sponges raw,Miscellaneous aquatic animal products,MISCELLANEOUS AQUATIC ANIMAL PRODUCTS,Sponges,Miscellaneous aquatic animal products,0

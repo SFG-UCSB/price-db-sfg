@@ -1,0 +1,211 @@
+pooled_commodity,group_for_pairing,ISSCAAP_group,ISSCAAP_division
+Crabs,"Crabs, sea-spiders","Crabs, sea-spiders",CRUSTACEANS
+Edible crab (Cancer pagurus),"Crabs, sea-spiders","Crabs, sea-spiders",CRUSTACEANS
+Tanner crab,"Crabs, sea-spiders","Crabs, sea-spiders",CRUSTACEANS
+King crabs,"Crabs, sea-spiders","King crabs, squat-lobsters",CRUSTACEANS
+Squat-lobsters,"Crabs, sea-spiders","King crabs, squat-lobsters",CRUSTACEANS
+Crayfish (freshwater),Freshwater crustaceans,Freshwater crustaceans,CRUSTACEANS
+Freshwater crustaceans,Freshwater crustaceans,Freshwater crustaceans,CRUSTACEANS
+American/European lobsters (Homarus spp.),"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",CRUSTACEANS
+Lobsters,"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",CRUSTACEANS
+Norway lobsters (Nephrops spp.),"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",CRUSTACEANS
+"Rock lobster and other sea crawfish (Palinurus, Panulirus, Jasus)","Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",CRUSTACEANS
+Rock lobsters (Jasus spp.),"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",CRUSTACEANS
+Spiny lobsters (Panulirus spp.),"Lobsters, spiny-rock lobsters","Lobsters, spiny-rock lobsters",CRUSTACEANS
+Krill,Miscellaneous marine crustaceans,"Krill, planktonic crustaceans",CRUSTACEANS
+Crustaceans,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,CRUSTACEANS
+Crustaceans and molluscs,Miscellaneous marine crustaceans,Miscellaneous marine crustaceans,CRUSTACEANS
+Common (=Crangon) shrimp,"Shrimps, prawns","Shrimps, prawns",CRUSTACEANS
+Deepwater rose shrimps (Parapenaeus longirostris),"Shrimps, prawns","Shrimps, prawns",CRUSTACEANS
+Shrimps,"Shrimps, prawns","Shrimps, prawns",CRUSTACEANS
+Shrimps and prawns,"Shrimps, prawns","Shrimps, prawns",CRUSTACEANS
+Shrimps and prawns (Pandalidae spp.),"Shrimps, prawns","Shrimps, prawns",CRUSTACEANS
+Shrimps and prawns (Penaeus spp.),"Shrimps, prawns","Shrimps, prawns",CRUSTACEANS
+Barramundi,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,DIADROMOUS FISHES
+Milkfish,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,DIADROMOUS FISHES
+Misc. diadromous fishes,Miscellaneous diadromous fishes,Miscellaneous diadromous fishes,DIADROMOUS FISHES
+Eels,River eels,River eels,DIADROMOUS FISHES
+Eels and elvers,River eels,River eels,DIADROMOUS FISHES
+River eels,River eels,River eels,DIADROMOUS FISHES
+Atlantic and Danube salmons,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Chum salmon,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Coho salmon,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Pacific salmon,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Pink salmon,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Salmon,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Salmonoids,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Smelts,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Sockeye salmon (red salmon)(Oncorhynchus nerka),"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Trouts,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Trouts and chars,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Whitefishes,"Salmons, trouts, smelts","Salmons, trouts, smelts",DIADROMOUS FISHES
+Alewife,Shads,Shads,DIADROMOUS FISHES
+Shads,Shads,Shads,DIADROMOUS FISHES
+Sturgeons and caviar,"Sturgeons, paddlefishes","Sturgeons, paddlefishes",DIADROMOUS FISHES
+Carps,"Carps, barbels and other cyprinids","Carps, barbels and other cyprinids",FRESHWATER FISHES
+Catfish,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,FRESHWATER FISHES
+Misc. freshwater fishes,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,FRESHWATER FISHES
+Nile perch,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,FRESHWATER FISHES
+Ornamental freshwater fishes,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,FRESHWATER FISHES
+Perch,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,FRESHWATER FISHES
+Pike,Miscellaneous freshwater fishes,Miscellaneous freshwater fishes,FRESHWATER FISHES
+Tilapias,Tilapias and other cichlids,Tilapias and other cichlids,FRESHWATER FISHES
+Alaska pollock,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Argentine hake,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Atlantic cod,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Blue whiting,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Cape hake,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Cods,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+European hake,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Gadiformes,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Greenland cod,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Grenadiers,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Haddock,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Hake,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Hake of the genus Urophycis,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Ling,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Pacific cod,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Polar cod,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Saithe (=Pollock),"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Silver hake,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+South Pacific hake,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Southern blue whiting,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Southern hake,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Tusk,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Whiting,"Cods, hakes, haddocks","Cods, hakes, haddocks",MARINE FISHES
+Fish for reduction,Fish for reduction,Fish for reduction,MARINE FISHES
+Alaska plaice,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Atlantic halibut,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Bastard halibut,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Common dab,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Common sole,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+European plaice,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Flatfishes,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Flounder,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Greenland halibut,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Halibuts,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Lemon sole,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Megrim,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Pacific halibut,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Plaices,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Soles,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Turbot,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Yellowfin sole,"Flounders, halibuts, soles","Flounders, halibuts, soles",MARINE FISHES
+Anchovies,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+Atlantic herring,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+Bonga shad,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+Brisling or sprats,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+Clupeoids,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+European anchovy,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+European sardine,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+Herrings,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+Pacific herring,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+Pilchards(Sardinops spp.) and Sardinellas,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+"Sardines, sardinellas, brisling or sprats","Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+South African pilchard,"Herrings, sardines, anchovies","Herrings, sardines, anchovies",MARINE FISHES
+Misc. marine fishes,Marine fishes not identified,Marine fishes not identified,MARINE FISHES
+Ornamental saltwater fishes,Marine fishes not identified,Marine fishes not identified,MARINE FISHES
+Atka mackerel,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Croakers,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Dentex,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Drum,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Emperors,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Filefish,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Fusiliers,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Gilt-head seabream,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Grouper,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Grunt,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Lizardfish,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Misc. coastal fishes,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Pandora,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Pony fishes,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Puffers,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Red mullet,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Sandlance,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Sea catfish,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Seabass,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Seabreams,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Snappers,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Snook,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Weakfish,Miscellaneous coastal fishes,Miscellaneous coastal fishes,MARINE FISHES
+Angler (=Monk),Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Atlantic redfishes,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Conger,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Cusk-eel (=kingklip),Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Gurnard,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Hairtails,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+John dory,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Lumpfish,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Misc. demersal fishes,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Orange roughy,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Oreo dories,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Pacific redfishes (=ocean perch),Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Pike-conger,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Redfish,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Sablefish,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Snoek,Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Toothfish (Dissostichus spp.),Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Wolffishes (=Catfishes),Miscellaneous demersal fishes,Miscellaneous demersal fishes,MARINE FISHES
+Amberjacks,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Atlantic mackerel,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Blue mackerel,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Bluefish,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Capelin,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Chub mackerel,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Cobia,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Dolphinfishes,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Flyingfishes,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Jack and horse mackerels,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Mackerels,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Misc. pelagic fishes,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Pacific sauries,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+"Pomfrets, ocean breams",Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Saury,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+Scads,Miscellaneous pelagic fishes,Miscellaneous pelagic fishes,MARINE FISHES
+"Catsharks, nursehounds","Sharks, rays, chimaeras","Sharks, rays, chimaeras",MARINE FISHES
+Dogfish (Squalidae),"Sharks, rays, chimaeras","Sharks, rays, chimaeras",MARINE FISHES
+Dogfish (Squalidae) and catshark,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",MARINE FISHES
+Porbeagle shark (Lamna nasus),"Sharks, rays, chimaeras","Sharks, rays, chimaeras",MARINE FISHES
+Sharks,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",MARINE FISHES
+"Sharks, rays, skates, chimaeras","Sharks, rays, chimaeras","Sharks, rays, chimaeras",MARINE FISHES
+Skates,"Sharks, rays, chimaeras","Sharks, rays, chimaeras",MARINE FISHES
+Albacore (=Longfin tuna),"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Atlantic(Thunnus thynnus) and Pacific(Thunnus orientalis)bluefin tuna,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Bigeye tuna,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Bonito,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Euthynnus excl. skipjack or stripe-bellied bonitos,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Marlins,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Plain bonito,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Skipjack tuna,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Southern bluefin tuna(Thunnus maccoyii),"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Spanish mackerel,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Swordfish,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Tunas,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Yellowfin tuna,"Tunas, bonitos, billfishes","Tunas, bonitos, billfishes",MARINE FISHES
+Jellyfish,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS
+Misc. aquatic invertebrates,Miscellaneous aquatic invertebrates,Miscellaneous aquatic invertebrates,MISCELLANEOUS AQUATIC ANIMALS
+Sea-cucumber,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,MISCELLANEOUS AQUATIC ANIMALS
+Sea-urchin,Sea-urchins and other echinoderms,Sea-urchins and other echinoderms,MISCELLANEOUS AQUATIC ANIMALS
+Abalones,"Abalones, winkles, conchs","Abalones, winkles, conchs",MOLLUSCS
+Stromboid conchs,"Abalones, winkles, conchs","Abalones, winkles, conchs",MOLLUSCS
+Top shell,"Abalones, winkles, conchs","Abalones, winkles, conchs",MOLLUSCS
+Univalves,"Abalones, winkles, conchs","Abalones, winkles, conchs",MOLLUSCS
+Arkshells,"Clams, cockles, arkshells","Clams, cockles, arkshells",MOLLUSCS
+"Clams, cockles, arkshells","Clams, cockles, arkshells","Clams, cockles, arkshells",MOLLUSCS
+Molluscs,Miscellaneous marine molluscs,Miscellaneous marine molluscs,MOLLUSCS
+Molluscs and other aquatic invertebrates,Miscellaneous marine molluscs,Miscellaneous marine molluscs,MOLLUSCS
+Mussels,Mussels,Mussels,MOLLUSCS
+Mussels of the genus Mytilus spp.,Mussels,Mussels,MOLLUSCS
+Mussels of the genus Perna spp.,Mussels,Mussels,MOLLUSCS
+Flat oyster,Oysters,Oysters,MOLLUSCS
+Oysters,Oysters,Oysters,MOLLUSCS
+Scallops,"Scallops, pectens","Scallops, pectens",MOLLUSCS
+Cephalopods,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",MOLLUSCS
+Cuttlefishes,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",MOLLUSCS
+"Cuttlefishes (Sepia off., Rossia macrosoma, Sepiola rondeleti)","Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",MOLLUSCS
+Cuttlefishes and squids,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",MOLLUSCS
+Octopus,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",MOLLUSCS
+Squids,"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",MOLLUSCS
+Squids (Illex spp.),"Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",MOLLUSCS
+"Squids (Ommastrephes sagittatus, Loligo spp.)","Squids, cuttlefishes, octopuses","Squids, cuttlefishes, octopuses",MOLLUSCS
