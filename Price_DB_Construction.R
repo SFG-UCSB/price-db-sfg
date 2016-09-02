@@ -72,7 +72,8 @@ cquantity$Year<-as.numeric(gsub('X','',cquantity$Year))
 ### Commodity Processing -------------------------------------------------------------------------------------------------------------------
 
 # join value and quantity tables so they only include matched pairs
-cboth<- inner_join(cvalue,cquantity)
+cboth<- inner_join(cvalue,cquantity) %>%
+  filter(Trade.flow..Trade.flow. == 'Exports')
 
 # remove contested commodity "Miscellaneous crustaceans, not frozen, nei" due to apparent errors in data
 cboth <- subset(cboth, Commodity..Commodity. != 'Miscellaneous crustaceans, not frozen, nei')
