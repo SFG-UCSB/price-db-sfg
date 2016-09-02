@@ -14,6 +14,9 @@ C. Kent Strauss
 **Code Author**  
 Tyler Clavelle ([GitHub](https://github.com/tclavelle?tab=repositories))   
 
+**Citation**  
+Melnychuk, M., Clavelle, T., Owashi, B., and C. Kent Strauss. Reconstruction of global ex-vessel prices of fished species. (in review)
+
 ## Overview
 This GitHub repository contains the code and materials required to produce the global database of ex-vessel prices described in Melnychuk *et al.* (2016). The analysis relies entirely on data publicly available from the Food and Agriculture Organization of the United Nations (FAO). We have made the code publicly available so that other researchers and interested parties can produce the dataset for themselves. Additionally, the code can be rerun to update the database when future releases of the required FAO data files become available.   
 
