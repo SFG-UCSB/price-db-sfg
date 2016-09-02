@@ -23,7 +23,7 @@ The entire repository (code and data) can be downloaded as a zip file by clickin
 
 GitHub users, please feel free to fork the repository and submit pull requests.
 ### Inputs
-+ **Price_DB_Construction.R** - This R script constructs and saves the ex-vessel price database
++ **R Script** - The `Price_DB_Construction.R` R script constructs and saves the ex-vessel price database
 
 + **FAO Data** - The `price-db-data` folder contains current versions of the required FAO data files, which include the [Fishery and Commodities and Trade database](http://www.fao.org/fishery/statistics/global-commodities-production/en) and [Appendix II – World fishery production: estimated value by groups of species](ftp://ftp.fao.org/FI/STAT/summary/appIIybc.pdf). The commodity data files are unprocessed files directly exported from FAO's [FishStatJ](http://www.fao.org/fishery/statistics/software/fishstatj/en) program. When updating these files, users must include the *Country*, *Commodity*, *ISSCAAP group*, and *Trade flow* variables in addition to the year columns   
 
