@@ -35,9 +35,9 @@ if(any(pkgs %in% installed.packages() == F) == F) {
 
 ## Read in data
 # Linkage tables
-link1<-read.csv('price-db-data/price-db-linkage-tables/exvessel_tableS1.csv',stringsAsFactors = F)
-link2<-read.csv('price-db-data/price-db-linkage-tables/exvessel_tableS2.csv',stringsAsFactors = F)
-link3<-read.csv('price-db-data/price-db-linkage-tables/exvessel_tableS3.csv',stringsAsFactors = F)
+link1<-read.csv('price-db-linkage-tables/exvessel_tableS1.csv',stringsAsFactors = F)
+link2<-read.csv('price-db-linkage-tables/exvessel_tableS2.csv',stringsAsFactors = F)
+link3<-read.csv('price-db-linkage-tables/exvessel_tableS3.csv',stringsAsFactors = F)
 
 # Updated commodity data
 cvalue<-read.csv('price-db-data/Commodity_value_76to13.csv', stringsAsFactors = F, na.strings = c('...','0 0','-')) # value in 1000s
@@ -96,7 +96,7 @@ cboth1$Value[fix]<-NA
 # Subset data to exclude highly processed categories if desired
 if(lowprocess == T) {
   
-  process <- read.csv(file = 'price-db-data/processing assingments.csv')
+  process <- read.csv(file = 'price-db-linkage-tables/processing assingments.csv')
   
   lows <- filter(process, assingment == 'low')
   
@@ -230,17 +230,37 @@ aggexvessel$PooledPrice<- aggexvessel$PooledValue/aggexvessel$PooledQuantity
 aggexvessel$exvessel<- aggexvessel$PooledPrice/aggexvessel$expfactor
 
 # join exvessel estimates with linkage table 3 to match exvessel prices to species
-database<-left_join(link3,aggexvessel)
+database<-left_join(link3,aggexvessel) %>%
+  tbl_df()
 
 
 ### Format and Save Database and Intermediate Tables ---------------------------------------------------------------------------------------
 
-# Save export data
-write.csv(cboth1, file = 'price-db-results/Export Price Database.csv')
+# select only main variables to output for expansion factor table
+tbl_six <- expansion %>%
+  filter(group_for_pairing != '') %>%
+  select(group_for_pairing,
+         Year,
+         ISSCAAPPrice,
+         Price_PerTon,
+         expfactor) %>%
+  rename(export_price          = ISSCAAPPrice,
+         fao_exvessel_estimate = Price_PerTon)
+
+# select only main variables to output for database
+tbl_seven <- database %>%
+  select(ASFIS_species,
+         scientific_name,
+         pooled_commodity,
+         ISSCAAP_group,
+         ISSCAAP_division,
+         group_for_pairing,
+         Year,
+         exvessel)
 
 # Save expansion factor table
-write.csv(expansion, file = 'price-db-results/Exvessel Expansion Factor Table.csv')
+write.csv(tbl_six, file = 'price-db-results/Exvessel Expansion Factor Table.csv')
 
 # Save final database
-write.csv(database, file = 'price-db-results/Exvessel Price Database.csv')
+write.csv(tbl_seven, file = 'price-db-results/Exvessel Price Database.csv')
 

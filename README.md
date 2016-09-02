@@ -1,8 +1,8 @@
 # Reconstructing global ex-vessel prices of fished species
 
 ### Authors
-Dr. Mike Melnychuk (University of Washington)  
-Tyler Clavelle (University of California, Santa Barbara)  
+Dr. Mike Melnychuk (University of Washington) (contact for paper blurb)
+Tyler Clavelle (University of California, Santa Barbara)  (contact for code blurb)
 Brandon Owashi (University of California, Santa Barbara)  
 Kent Strauss
 
@@ -22,7 +22,7 @@ This GitHub repository contains the code and materials required to produce the g
 
 
 + **price-db-data** - This folder contains current versions of the required FAO data files and will be used by `Price_DB_Construction.R` to construct the database. Users can update the database in the future with new data by replacing the filenames in `Price_DB_Construction.R` with the filenames of updated data from the FAO
- 
+
   + *Commodity_quantity_76to13.csv*
   + *Commodity_value_76to13.csv*
   + *FAO exvessel estimates from archives.xlsx*
