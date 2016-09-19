@@ -1,10 +1,11 @@
 ##################################################################---------------------------------------------------------------------
 #
-# Melnychuck et al. (2016) Reconstruction of global ex-vessel prices of fished species
-# 
+# Melnychuk, M. C., Clavelle, T., Owashi, B., and Strauss, K. 2016.
+# Reconstruction of global ex-vessel prices of fished species. - ICES Journal of Marine Science. doi:10.1093/icesjms/fsw169.
+#
 # Code by Tyler Clavelle (tclavelle@bren.ucsb.edu)
 #
-# Code description: This code constructs the global ex-vessel price database as per Melnychuch et al. (2016). It relies entirely on publicly
+# Code description: This code constructs the global ex-vessel price database as per Melnychuk et al. (2016). It relies entirely on publicly
 # avaliable FAO data and can produce an updated ex-vessel price database with each new release of FAO data.
 #
 ##################################################################---------------------------------------------------------------------
@@ -26,7 +27,7 @@ if(any(pkgs %in% installed.packages() == F) == F) {
   library(tidyr)
   library(dplyr)
   library(ggplot2)
-  library(readxl)  
+  library(readxl)
 
 } else { # install missing packages and then load all
   install.packages(pkgs[pkgs %in% installed.packages() == F])
@@ -46,10 +47,10 @@ cquantity<-read.csv('price-db-data/Commodity_quantity_76to13.csv', stringsAsFact
 # FAO estimated ex-vessel data by ISSCAAP group
 faoprices <- read_excel('price-db-data/FAO exvessel estimates from archives.xlsx', sheet = 4)
 
-## Set options for database 
+## Set options for database
 lowprocess <- FALSE # for using all commodities or just low processed commodities
 commod_min <- 100 # minimum quantity required for inclusion in export price calculation
- 
+
 
 ###############################################################################
 ## Process FAO ----------------------------------------------------------------
@@ -96,11 +97,11 @@ cboth1$Value[fix]<-NA
 
 # Subset data to exclude highly processed categories if desired
 if(lowprocess == T) {
-  
+
   process <- read.csv(file = 'price-db-linkage-tables/processing assingments.csv')
-  
+
   lows <- filter(process, assingment == 'low')
-  
+
   cboth1 <- filter(cboth1, FAO_commodity %in% lows$FAO_commodity)
 }
 
@@ -122,7 +123,7 @@ agg<-agg %>%
   group_by(pooled_commodity,group_for_pairing,Year) %>%
   summarize(PooledQuantity = sum(TotalQuantity,na.rm=T),
             PooledValue    = sum(TotalValue,na.rm=T)) %>%
-  mutate(PooledPrice       = PooledValue/PooledQuantity) %>% 
+  mutate(PooledPrice       = PooledValue/PooledQuantity) %>%
   ungroup()
 
 # aggregate over ISSCAAP
@@ -134,7 +135,7 @@ aggisscaap<- agg %>%
   ungroup()
 
 
-##############################################################################################################  
+##############################################################################################################
 ### FAO Exvessel Processing ----------------------------------------------------------------------------------------------------------------
 
 # Filter FAO price data to appropriate level and rename variables to more convenient names
@@ -183,13 +184,13 @@ expansion <- left_join(aggisscaap,faoexvessel) %>%
 ## Extrapolate missing values for 1976-1994
 
 # calculate the weighted expansion factor
-wt_expansion <- expansion %>% 
+wt_expansion <- expansion %>%
   tbl_df() %>%
   filter(Year>=1994) %>%
   group_by(group_for_pairing) %>%
   summarize(exvessel_wt_mean = (1000000*sum(Value_Millions,na.rm=T)) / (1000*(sum(Quantity_1000s,na.rm=T))),
             export_wt_mean   = (1000*sum(ISSCAAPValue,na.rm=T))/(sum(ISSCAAPQuantity,na.rm=T)),
-            wt_exp_factor    = export_wt_mean / exvessel_wt_mean) 
+            wt_exp_factor    = export_wt_mean / exvessel_wt_mean)
 
 # extract data for years with exvessel and export prices and calculate the median and mean exp factors
 hist_factor <- expansion %>%
@@ -198,7 +199,7 @@ hist_factor <- expansion %>%
   summarize(med_exp_factor   = median(expfactor,na.rm=T),
             mean_exp_factor  = mean(expfactor,na.rm=T))
 
-# use calculated median (or mean) expansion factors to estimate exvessel prices for 1976-1994  
+# use calculated median (or mean) expansion factors to estimate exvessel prices for 1976-1994
 needs_price<-expansion %>%
   tbl_df() %>%
   filter(Year<1994) %>%
@@ -209,9 +210,9 @@ needs_price<-expansion %>%
 expansion<-expansion %>%
   filter(Year>=1994) %>%
   bind_rows(needs_price) %>%
-  arrange(group_for_pairing,Year) 
+  arrange(group_for_pairing,Year)
 
-# fill in expfactor variable for '76-'94 with the calculated expfactor of choice (median or mean) 
+# fill in expfactor variable for '76-'94 with the calculated expfactor of choice (median or mean)
 expansion$expfactor[is.na(expansion$expfactor)] <- expansion$med_exp_factor[is.na(expansion$expfactor)]
 
 
@@ -219,14 +220,14 @@ expansion$expfactor[is.na(expansion$expfactor)] <- expansion$med_exp_factor[is.n
 ### Exvessel Calculation -------------------------------------------------------------------------------------
 
 # join pooled commodities with expansion factors
-aggexvessel<-left_join(agg,expansion) 
+aggexvessel<-left_join(agg,expansion)
 
 # convert PooledValue from 1000s to dollars
 aggexvessel$PooledValue<- aggexvessel$PooledValue*1000
-  
+
 # recalculate pooled price
 aggexvessel$PooledPrice<- aggexvessel$PooledValue/aggexvessel$PooledQuantity
-  
+
 # calculate ex-vessel price using inverse expansion factor
 aggexvessel$exvessel<- aggexvessel$PooledPrice/aggexvessel$expfactor
 
@@ -264,4 +265,3 @@ write.csv(tbl_six, file = 'price-db-results/Exvessel Expansion Factor Table.csv'
 
 # Save final database
 write.csv(tbl_seven, file = 'price-db-results/Exvessel Price Database.csv')
-
