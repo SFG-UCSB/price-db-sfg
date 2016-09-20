@@ -4,12 +4,14 @@
 Michael Melnychuk<sup>1*</sup>    
 Tyler Clavelle<sup>2+</sup>  
 Brandon Owashi<sup>2</sup>  
-C. Kent Strauss
+C. Kent Strauss<sup>3</sup>
 
 <sup>1</sup>[School of Aquatic and Fishery Sciences](https://fish.uw.edu/), University of Washington, Seattle, WA 98195  
 <sup>2</sup>[Sustainable Fisheries Group](http://sfg.msi.ucsb.edu/), University of California, Santa Barbara, CA 93106  
+<sup>3</sup>[Department of Economics](http://econ.ucsb.edu), University of California, 2127 North Hall, Santa Barbara, CA 93106  
 <sup>\*</sup>To whom correspondence regarding the paper should be addressed. Email: m.mel@u.washington.edu  
 <sup>\+</sup>To whom correspondence regarding the code should be addressed. Email: tclavelle@bren.ucsb.edu
+
 
 **Code Author**  
 Tyler Clavelle ([GitHub](https://github.com/tclavelle?tab=repositories))   
