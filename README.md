@@ -27,6 +27,9 @@ The entire repository (code and data) can be downloaded as a zip file by clickin
 + [RStudio](https://www.rstudio.com)
 
 GitHub users, please feel free to fork the repository and submit pull requests.
+
+Once installed, set your working directory to the folder containing the R script. This can be done by opening the script in RStudio and selecting the option from the `Session` dropdown menu as follows: `Session > Set Working Directory > To Source File Location`. Next, simply run the `source(file = "Price_DB_Construction.R")` command. 
+
 ### Inputs
 + **R Script** - The `Price_DB_Construction.R` R script constructs and saves the ex-vessel price database
 
