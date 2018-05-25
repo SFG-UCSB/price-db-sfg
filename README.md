@@ -17,10 +17,10 @@ C. Kent Strauss<sup>3</sup>
 Tyler Clavelle ([GitHub](https://github.com/tclavelle?tab=repositories))   
 
 **Citation for paper**  
-[Melnychuk, M. C., Clavelle, T., Owashi, B., and Strauss, K. 2016. Reconstruction of global ex-vessel prices of fished species. - ICES Journal of Marine Science. doi:10.1093/icesjms/fsw169.](http://icesjms.oxfordjournals.org/cgi/content/full/fsw169?ijkey=RgRoXMxy1GfDFff&keytype=ref)
+[Melnychuk, M. C., Clavelle, T., Owashi, B., and Strauss, K. 2016. Reconstruction of global ex-vessel prices of fished species. - ICES Journal of Marine Science. doi:10.1093/icesjms/fsw169.](https://academic.oup.com/icesjms/article/74/1/121/2670314?guestAccessKey=40549d15-a283-4dca-8775-aba5f95fe3b9)
 
 ## Overview
-This GitHub repository contains the code and materials required to produce the global database of ex-vessel prices described in Melnychuk *et al.* (2016). The analysis relies entirely on data publicly available from the Food and Agriculture Organization of the United Nations (FAO). The source code is publicly available under a [MIT License](https://github.com/SFG-UCSB/price-db-sfg/blob/master/LICENSE.txt) so that other researchers and interested parties can reproduce and/or expand upon the analysis. Additionally, the code can be rerun to update the database when future releases of the required FAO data files become available.   
+This GitHub repository contains the code and materials required to produce the global database of ex-vessel prices described in Melnychuk *et al.* (2016). The analysis relies entirely on data publicly avaireflable from the Food and Agriculture Organization of the United Nations (FAO). The source code is publicly available under a [MIT License](https://github.com/SFG-UCSB/price-db-sfg/blob/master/LICENSE.txt) so that other researchers and interested parties can reproduce and/or expand upon the analysis. Additionally, the code can be rerun to update the database when future releases of the required FAO data files become available.   
 
 The entire repository (code and data) can be downloaded as a zip file by clicking on the green button above. The code is written using the R language. If you do not currently use R or RStudio (IDE for R) you can download them at the following links:
 + [R](https://www.r-project.org)
